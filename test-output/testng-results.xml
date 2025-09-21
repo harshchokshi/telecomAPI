@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-15T00:10:51 AEST" name="Default suite" finished-at="2025-09-15T00:11:13 AEST" duration-ms="22125">
+    <groups>
+    </groups>
+    <test started-at="2025-09-15T00:10:51 AEST" name="Default test" finished-at="2025-09-15T00:11:13 AEST" duration-ms="22125">
+      <class name="capstoneproject.telecom.TestCases">
+        <test-method signature="addNewUser()[pri:1, instance:capstoneproject.telecom.TestCases@72d1ad2e]" started-at="2025-09-15T00:10:51 AEST" name="addNewUser" finished-at="2025-09-15T00:10:56 AEST" duration-ms="5241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewUser -->
+        <test-method signature="getUserProfile()[pri:2, instance:capstoneproject.telecom.TestCases@72d1ad2e]" started-at="2025-09-15T00:10:56 AEST" name="getUserProfile" finished-at="2025-09-15T00:10:57 AEST" duration-ms="1383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserProfile -->
+        <test-method signature="updateUser()[pri:3, instance:capstoneproject.telecom.TestCases@72d1ad2e]" started-at="2025-09-15T00:10:57 AEST" name="updateUser" finished-at="2025-09-15T00:11:02 AEST" duration-ms="4705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+        <test-method signature="logInUser()[pri:4, instance:capstoneproject.telecom.TestCases@72d1ad2e]" started-at="2025-09-15T00:11:02 AEST" name="logInUser" finished-at="2025-09-15T00:11:03 AEST" duration-ms="1203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInUser -->
+        <test-method signature="addContact()[pri:5, instance:capstoneproject.telecom.TestCases@72d1ad2e]" started-at="2025-09-15T00:11:03 AEST" name="addContact" finished-at="2025-09-15T00:11:04 AEST" duration-ms="1212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method signature="getContactList()[pri:6, instance:capstoneproject.telecom.TestCases@72d1ad2e]" started-at="2025-09-15T00:11:04 AEST" name="getContactList" finished-at="2025-09-15T00:11:07 AEST" duration-ms="2698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getContactList -->
+        <test-method signature="getContact()[pri:7, instance:capstoneproject.telecom.TestCases@72d1ad2e]" started-at="2025-09-15T00:11:07 AEST" name="getContact" finished-at="2025-09-15T00:11:08 AEST" duration-ms="1148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getContact -->
+        <test-method signature="updateContact()[pri:8, instance:capstoneproject.telecom.TestCases@72d1ad2e]" started-at="2025-09-15T00:11:08 AEST" name="updateContact" finished-at="2025-09-15T00:11:10 AEST" duration-ms="1365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateContact -->
+        <test-method signature="updateContactFirstName()[pri:9, instance:capstoneproject.telecom.TestCases@72d1ad2e]" started-at="2025-09-15T00:11:10 AEST" name="updateContactFirstName" finished-at="2025-09-15T00:11:11 AEST" duration-ms="1899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateContactFirstName -->
+        <test-method signature="logOutUser()[pri:10, instance:capstoneproject.telecom.TestCases@72d1ad2e]" started-at="2025-09-15T00:11:11 AEST" name="logOutUser" finished-at="2025-09-15T00:11:13 AEST" duration-ms="1180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutUser -->
+      </class> <!-- capstoneproject.telecom.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
